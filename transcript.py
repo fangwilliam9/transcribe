@@ -1,6 +1,5 @@
 from pathlib import Path
 import whisper
-import json
 import re
 import time
 import sys
